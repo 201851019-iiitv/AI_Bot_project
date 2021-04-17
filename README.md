@@ -1,10 +1,10 @@
  # AI_Bot
-<img src= "https://visitor-badge.laobi.icu/badge?page_id=201851019-iiitv/AI_Bot_project " alt="visitor badge"/> |  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/201851019-iiitv/AI_Bot_project/master)
+<img src= "https://visitor-badge.laobi.icu/badge?page_id=201851019-iiitv/AI_Bot_project " alt="visitor badge"/> |  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/201851019-iiitv/AI_Bot_project/main)
  
 
 ## About 
 
-This is a simple `AI Bot` .It based pre trained model by google `BERT` . User ask any question and this bot give answer of the question .
+This is a simple `AI Bot` .It used `BERT` technique and some pre trained model and pyhton libraries(NLTK etc). User ask any question and this bot give answer of the question .
 
 
 ## Requirements
